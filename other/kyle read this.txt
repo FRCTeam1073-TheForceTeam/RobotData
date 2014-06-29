@@ -1,0 +1,1 @@
+you need to turn down the timers in the C# application because they are taking too much cpu time. start by turning down the netconsole time, then work from there.
